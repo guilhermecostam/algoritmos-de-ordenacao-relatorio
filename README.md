@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<hr />
+---
 
 ## Ferramentas
 
@@ -23,22 +23,19 @@ Este relatório acadêmico foi desenvolvido para a disciplina Estrutura de Dados
 
 O objetivo é apresentar estes métodos de ordenação do ponto de vista prático, reunir informações sobre suas execuções (tempo e memória gastos) e fazer uma análise aprofundada com base no que foi reunido para identificar qual algoritmo é mais apropriado para cada situação.
 
-Neste repositório estão contidos os algoritmos usados como base para obtenção dos resultados, os gráficos plotados e o relatório completo em PDF, desenvolvido na ferramenta Larex. O relatório foi desenvolvido seguindo os seguintes pontos:
+Neste repositório estão contidos os algoritmos usados como base para obtenção dos resultados, os gráficos plotados, cálculos de complexidade de cada algoritmo e o relatório completo em PDF, desenvolvido na ferramenta Larex. O relatório foi desenvolvido seguindo os seguintes pontos:
 
     I. Gráficos com estimativas práticas do tempo de execução do algoritmo;
     II. Análise analítica do tempo de execução do algoritmo;
     III. Uma comparação sobre o desempenho de cada algoritmo em relação ao custo em tempo e memória.
-
-##  Algoritmos
-
-- Os algoritmos utilizados para obtenção dos resultados são:
-  - Insertion Sort;
-  - Merge Sort;
-  - Quick Sort.
   
-## Execultando os algoritmos
+## Executando os algoritmos
 
-Para executar os algoritmos, basta seguir os passos descritos [neste link](https://www.python.org).
+Para executar os algoritmos, basta seguir os passos descritos no README [deste link.](https://github.com/guilhermecostam/algoritmos-de-ordenacao-relatorio/tree/main/fontes)
+
+## Plotando os gráficos
+
+Para plotar os gráficos, basta seguir os passos descritos no README [deste link.](https://github.com/guilhermecostam/algoritmos-de-ordenacao-relatorio/tree/main/graficos)
 
 ## License
 
