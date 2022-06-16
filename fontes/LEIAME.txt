@@ -1,0 +1,33 @@
+
+==================================================================================
+Detalhes a cerca do funcionamento dos códigos do relatório I de Estrutura de Dados
+==================================================================================
+
+Características a cerca dos códigos:
+------------------------------------
+
+- Python - Linguagem de programação utilizada;
+
+
+Preparando para rodar:
+----------------------
+
+1. Fazer a instalação do python na máquina;
+
+2. Abrir o terminal e rodar o seguinte comando: python3 nome_do_arquivo.py
+  2.1. Note que para rodar o programa, é necessário estar no mesmo diretório que o arquivo ou passar na linha de comando o diretório junto com o nome do arquivo.
+  2.2. Possuem outros comandos para rodar programas python além do python3, como py e python.
+
+3. Como os algoritmos quick-sort e insertion-sort possuem melhor, pior e médio caso, possibilitei que o usuário possa escolher o caso que deseja rodar. O código apresenta as opções disponíveis, validações de erro e a possibilidade de sair da execução ou permanecer na exibição dos resultados. No entanto, o merge-sort só possui uma execução, por só possuir o caso base.
+
+
+Observações:
+------------
+
+1. O código está escrito inteiramente em inglês.
+
+2. Os programas retornam apenas os tamanhos dos vetores utilizados e os tempos de execução dos algoritmos.
+
+3. Note que no algoritmo padrão do quick sort é setado um novo limite para o limite de recursão na linha 33. Isso é por causa que o python possui um limite padrão para recursões e ao usar vetores superiores ao tamanho [999] o código quebra.
+
+4. Efetuei os devidos testes, no windows e linux, dos códigos apresentados. Porém, caso haja problemas na hora de executar, deixei uma pasta com versões de cada caso do insertion-sort e do quick-sort.
