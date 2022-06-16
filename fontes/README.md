@@ -30,3 +30,7 @@ $ python3 nome_do_arquivo.py
 2. Os programas retornam apenas os tamanhos dos vetores utilizados e os tempos de execução dos algoritmos. Essas informações são para poder plotar os gráficos.
 
 3. Como os algoritmos Quick Sort e Insertion Sort possuem melhor, pior e médio caso, a versão principal possibilita que seja escolhida o caso que deseja rodar. Por isso, deixei uma pasta com versões de cada caso do Insertion Sort e do Quick Sort separados.
+  1. Caso deseje mais eficiência é possível rodar os casos separados e já passar o retorno direto para um arquivo de texto com o comando:
+  ```bash
+  $ python3 nome_do_arquivo.py >> arquivo.txt
+  ```
